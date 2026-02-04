@@ -1,5 +1,4 @@
-package IteratorPattern;
-
+import IteratorPattern.Stuff;
 import java.util.Iterator;
 
 public class Main {
